@@ -1,0 +1,12 @@
+.DocLandHeaderLayout {
+  display: flex;
+  border-bottom: var(--border-width) solid var(--border-color);
+  height: 3.9rem;
+  padding: 0.1% 0.1%;
+}
+
+.HeaderLogoContainer {
+  width: 15%;
+  display: flex;
+  justify-content: space-around;
+}

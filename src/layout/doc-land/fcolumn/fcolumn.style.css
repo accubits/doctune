@@ -1,0 +1,9 @@
+.FColumnLayout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-right: var(--border-width) solid var(--border-color);
+  width: 15%;
+
+  height: calc(100vh - 4.3rem);
+}
